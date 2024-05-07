@@ -1,6 +1,3 @@
-
-
-
 let numero1 = parseFloat(prompt("Ingrese el primer número:"));
 let numero2 = parseFloat(prompt("Ingrese el segundo número:"));
 let numero3 = parseFloat(prompt("Ingrese el tercer número:"));
